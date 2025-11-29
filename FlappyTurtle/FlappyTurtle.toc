@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: FlappyTurtle
+## Notes: A Flappy Bird clone for Turtle WoW. Type /flappy to play!
+## Author: Userone
+## Version: 1.0
+## SavedVariables: FlappyTurtleHighScore
+
+FlappyTurtle.lua
